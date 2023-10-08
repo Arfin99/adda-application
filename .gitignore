@@ -1,0 +1,23 @@
+#dependencies
+adda_app/node_modules
+adda_app/package-lock.json
+adda_app/.pnp
+adda_app/.pnp.js
+
+# testing
+adda_app//coverage
+
+# production
+adda_app//build
+
+# misc
+adda_app/.DS_Store
+adda_app/.env
+adda_app/.env.local
+adda_app/.env.development.local
+adda_app/.env.test.local
+adda_app/.env.production.local
+
+adda_app/npm-debug.log*
+adda_app/yarn-debug.log*
+adda_app/yarn-error.log*
