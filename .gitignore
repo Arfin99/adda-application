@@ -3,6 +3,7 @@ adda_app/node_modules
 adda_app/package-lock.json
 adda_app/.pnp
 adda_app/.pnp.js
+adda_app/public/uploads
 
 # testing
 adda_app//coverage
