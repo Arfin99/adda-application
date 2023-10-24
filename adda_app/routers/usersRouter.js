@@ -14,6 +14,6 @@ const router = express.Router();
 router.get("/", decorateHTMLResponse("Users"), getUsers);
 
 //add user
-router.post("/",profileImageUpload  );
+router.post("/",profileImageUpload, a  );
 
 module.exports = router;
